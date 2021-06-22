@@ -37,8 +37,8 @@ Arguments:
 The `Address List Table` will be a `:` separated file with the following columns:
 
 - Address
-- pin color (default to `blue` if nissing)
-- pin size  (default to `12` pixels if mnissing)
+- pin color (default to `blue` if missing)
+- pin size  (default to `12` pixels if missing)
 
 ### Example File
 
